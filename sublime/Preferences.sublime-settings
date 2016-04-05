@@ -35,13 +35,14 @@
 		"node_modules",
 		"bower_components"
 	],
-	"font_size": 9,
+	"font_size": 12,
 	"highlight_line": false,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"ColorPicker",
 		"GitGutter",
+		"JavaScript Beautify",
 		"SideBarEnhancements",
 		"Vintage"
 	],
