@@ -5,18 +5,30 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSScomb",
 		"Dotfiles Syntax Highlighting",
 		"EditorConfig",
 		"Emmet",
+		"HTML Mustache",
+		"HTML5",
+		"HTMLBeautify",
+		"JavaScript & NodeJS Snippets",
+		"Javascript Beautify",
 		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
 		"JsFormat",
 		"Package Control",
 		"Pretty JSON",
 		"Seti_UI",
 		"Seti_UX",
+		"SideBarEnhancements",
 		"Stylus",
 		"Tag",
 		"TernJS",
+		"TortoiseSVN",
 		"TypeScript"
 	]
 }
