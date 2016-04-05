@@ -1,48 +1,6 @@
-
-tree
-viber
-inkscape
-
 sudo apt-get install node && sudo apt-get install npm && sudo ln -s /usr/bin/nodejs /usr/bin/node
-
-git 
-
+sudo apt-add-repository ppa:paolorotolo/android-studio && sudo apt-get update && sudo apt-get install android-studio
 https://lodash.com/docs#xor
-
-sudo apt-add-repository ppa:paolorotolo/android-studio
-sudo apt-get update
-sudo apt-get install android-studio
-
-in sublime console ---------
+sublime console ---------
 import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')
------
-sublime {	[
-		"All Autocomplete",
-		"Can I Use",
-		"ColorPicker",
-		"CSScomb",
-		"DocBlockr",
-		"Emmet",
-		"Git",
-		"GitGutter",
-		"Javascript Beautify",
-		"Package Control",
-		"SideBarEnhancements",
-		"SublimeREPL"
-	]		}
-
-{
-	"draw_white_space": "all",
-	"font_size": 9,
-	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"save_on_focus_lost": true,
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-	"word_wrap": true
-}
-
-
+end sublime console -----
